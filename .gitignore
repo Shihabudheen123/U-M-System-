@@ -1,0 +1,9 @@
+# Node.js
+node_modules/
+package-lock.json
+.env
+
+# System/Editor
+.DS_Store
+.idea/
+.vscode/
